@@ -1,8 +1,8 @@
 
 
 var path = require('path');
-var metalsmith_task = require('gulp-metalsmith-server').metalsmith_task;
-var shopify_task = require('gulp-metalsmith-server').shopify_task;
+var metalsmith_task = require('@dsinisa/gulp-metalsmith-server').metalsmith_task;
+var shopify_task = require('@dsinisa/gulp-metalsmith-server').shopify_task;
 
 // copy layouts to build
 gulp.task('layouts:copy', function() {
