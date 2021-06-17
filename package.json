@@ -9,7 +9,7 @@
     "email": "goranaleksic@me.com",
     "name": "Goran Aleksic"
   },
-  "version": "1.3.0",
+  "version": "1.3.1",
   "homepage": "https://github.com/dsinisa/gunmetal",
   "maintainers": [
     {
@@ -111,15 +111,5 @@
     "node": "^6.1.0",
     "npm": "^3.8.3"
   },
-  "warnings": [
-    {
-      "code": "ENOTSUP",
-      "pkgid": "gunmetal@0.0.6",
-      "required": {
-        "node": "^6.1.0",
-        "npm": "^3.8.3"
-      }
-    }
-  ],
   "scripts": {}
 }
